@@ -1,3 +1,4 @@
+//Import necessary things 
 import React from "react";
 import {
      SafeAreaView,
